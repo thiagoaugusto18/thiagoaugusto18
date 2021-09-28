@@ -1,4 +1,4 @@
 ::: Seja Bem Vindo :::
 
-::Portifólio em construção ::
+:: Portifólio em construção ::
 
