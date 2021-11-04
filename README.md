@@ -7,6 +7,7 @@
 : Java 
 : HTML
 : CSS
+: Javascript
 : Bootstrap
 : React
 : PL/SQL :
